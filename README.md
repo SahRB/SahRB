@@ -18,6 +18,8 @@
   <a href="https://www.linkedin.com/in/sabrina-barrosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br>
 <div align="center">
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" height="150" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
