@@ -19,9 +19,8 @@
   
 </div>
 <div align="center">
-<iframe src="https://giphy.com/embed/l3q2GDh3wQqVWSiGY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/animation-cute-hello-l3q2GDh3wQqVWSiGY"></a>
-  </div>
-
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" height="150" frameBorder="0" class="giphy-embed" allowFullScreen>
+</div>
 
 <div align="center">
 
