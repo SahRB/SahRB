@@ -1,6 +1,6 @@
 ### Oiii!, me chamo Sabrina 🦄
 
-- 🌱 Aprendendo Flutter
+- 🌱 Aprendendo Front-end e Mobile.
 - 👯 Procurando novos projetos e experiências
 - 😄 Pronomes: Ela/Dela
 - 🫶 Buscando novas oportunidades
